@@ -1,4 +1,4 @@
-# dev-packages
+# osx-dev-packages
 
 This project provides an interactive menu to install and configure development tools on macOS using Bash scripts. The menu auto-discovers scripts in `./packages` and lets you run them in isolated child processes.
 
