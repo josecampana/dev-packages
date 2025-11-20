@@ -13,7 +13,7 @@ This project provides an interactive menu to install and configure development t
 Type:
 
 ```bash
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/tuusuario/osx-dev-packages/main/bootstrap.sh)"
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/josecampana/osx-dev-packages/main/bootstrap.sh)"
 ```
 
 ## Disclaimer
